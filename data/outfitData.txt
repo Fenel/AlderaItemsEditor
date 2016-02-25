@@ -1,0 +1,8 @@
+id=0; name=Spider; type=0; north=49; south=52; west=55; east=58;
+id=1; name=Grass Snake; type=0; north=149; south=152; west=155; east=158;
+id=2; name=Blood Orc; type=0; north=164; south=167; west=170; east=173;
+id=3; name=Snake; type=0; north=179; south=182; west=185; east=188;
+id=4; name=Small Bug; type=0; north=194; south=197; west=200; east=203;
+id=5; name=Mage; type=0; north=286; south=289; west=292; east=295;
+id=6; name=Black Dragon; type=0; north=395; south=398; west=401; east=404;
+id=7; name=Rat; type=0; north=416; south=419; west=422; east=425;
